@@ -6,3 +6,4 @@ public class Hello {
         }
     }
 }
+// Maybe Java isn't so bad after all
